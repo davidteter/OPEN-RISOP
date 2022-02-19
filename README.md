@@ -1,5 +1,5 @@
 # OPEN-RISOP
-This is an attempt to build an open-sourced version of the Red Integrated Strategic Operational Plan (RISOP) using an open-sourced targeting database and weapon assessment modules and consequence of execution tools. 
+This is an attempt to build an open-sourced version of the Red Integrated Strategic Operational Plan (RISOP) using an open-sourced targeting database with weapon allocation modules and consequence of execution tools. 
 
 Future areas that I'd like to see supported:
 PDCALC analysis of probability damage (PD)
